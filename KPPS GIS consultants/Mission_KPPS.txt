@@ -1,0 +1,90 @@
+Mission 
+
+- What is HPPS GIS consultants purpose?
+Collecting valuable data and digitizing it
+managing digital mapping data 
+Analysing the data to solve geographic, urban development, socio-economic problems
+making maps from the aquired analytical data
+
+- Describe how does your company do the purpose?
+here is our values as we operate our business
+
+provide accurate and reliable data 
+excel at including the community and excellent customer service
+we care about the environment
+We celebrate and inspire creativity and innovation
+Pride ourselves with sustainable urban development
+
+- Add values to the purpose of your company:
+
+Capture reliable(consistency of a measure) and accurate(validity) data
+managing digital mapping data on a consistent basis
+`Analysing data to produce innovative and creative solutions to 
+geographic, urban development, socio-economic problems in forms of interactive maps
+Include the community 
+
+- Add why HPPS GIS consultants does what it does:
+
+Capture reliable(consistency of a measure) and accurate(validity) data
+managing digital mapping data on a consistent basis
+`Analysing data to produce innovative and creative solutions to 
+geographic, urban development, socio-economic problems in forms of interactive maps
+Include the community
+to accelerate service delevery to fascilitate development of Hatfield and empowerment its community and to leave the 
+world a better place for our children.
+
+
+The statement:
+At KPPS GIS consultants,we capture, manage and analyze accurate and reliable digital mapping data to 
+produce innovative solutions to geographic, socio-economic problems by fasciliting urban development 
+and empowering the community leave the world a better place for our children.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+B1 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B1.tif') ##Coastal/Aerosol
+```
+```{r}
+B2 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B2.tif') ##Blue
+```
+```{r}
+B4 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B4.tif') ##Red
+```
+```{r}
+B5 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B5.tif') ##Near Infrared
+```
+```{r}
+B6 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B6.tif') ##SWIR-1
+```
+```{r}
+B7 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B7.tif') ##SWIR-2
+```
+```{r}
+B8 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B8.tif') ##Panchromatic
+```
+```{r}
+B9 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B9.tif') ##Cirrus
+```
+```{r}
+B10 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B10.tif') ##TIR-1 
+```
+```{r}
+B11 <- raster('LC08_L1TP_170078_20170329_20170414_01_T1_B11.tif') ##TIR-2
+```

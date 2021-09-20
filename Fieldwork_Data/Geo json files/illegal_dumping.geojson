@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "illegal_dumping",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "date": "2021\/08\/19 00:00:00", "confirmation": "yes", "layer": "IllegalDumpings", "x": 28.238104, "y": -25.75972 }, "geometry": { "type": "Point", "coordinates": [ 28.238104, -25.75972, 1366.143677 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "date": "2021\/08\/19 00:00:00", "confirmation": "yes", "layer": "IllegalDumpings", "x": 28.235627, "y": -25.759214 }, "geometry": { "type": "Point", "coordinates": [ 28.235627, -25.759214, 1375.326904 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "date": "2021\/08\/19 00:00:00", "confirmation": "yes", "layer": "IllegalDumpings", "x": 28.234787, "y": -25.760505 }, "geometry": { "type": "Point", "coordinates": [ 28.234787, -25.760505, 1355.189087 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "date": "2021\/08\/19 10:24:38", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.24031542719592, "y": -25.751802484445829 }, "geometry": { "type": "Point", "coordinates": [ 28.24031542719592, -25.751802484445829, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "date": "2021\/08\/19 10:58:04", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.24411246063648, "y": -25.751518277715558 }, "geometry": { "type": "Point", "coordinates": [ 28.24411246063648, -25.751518277715558, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "date": "2021\/08\/19 10:59:04", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.243970152915562, "y": -25.751585261143969 }, "geometry": { "type": "Point", "coordinates": [ 28.243970152915562, -25.751585261143969, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "date": "2021\/08\/19 10:31:21", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.239147233060709, "y": -25.755773059600671 }, "geometry": { "type": "Point", "coordinates": [ 28.239147233060709, -25.755773059600671, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "date": "2021\/08\/19 10:35:00", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.238386664710134, "y": -25.755590532572025 }, "geometry": { "type": "Point", "coordinates": [ 28.238386664710134, -25.755590532572025, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "date": "2021\/08\/19 10:47:42", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.23799152447716, "y": -25.755328605271206 }, "geometry": { "type": "Point", "coordinates": [ 28.23799152447716, -25.755328605271206, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "date": "2021\/08\/19 10:52:39", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.239616826017308, "y": -25.755132014476786 }, "geometry": { "type": "Point", "coordinates": [ 28.239616826017308, -25.755132014476786, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "date": "2021\/08\/19 10:54:18", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.239879653077018, "y": -25.754661280993091 }, "geometry": { "type": "Point", "coordinates": [ 28.239879653077018, -25.754661280993091, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "date": "2021\/08\/19 10:55:23", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.240110185023621, "y": -25.75436334128096 }, "geometry": { "type": "Point", "coordinates": [ 28.240110185023621, -25.75436334128096, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "date": "2021\/08\/19 11:31:00", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.239525212001279, "y": -25.751897846372565 }, "geometry": { "type": "Point", "coordinates": [ 28.239525212001279, -25.751897846372565, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "date": "2021\/08\/24 09:30:58", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.23401989415288, "y": -25.757165998220444 }, "geometry": { "type": "Point", "coordinates": [ 28.23401989415288, -25.757165998220444, 0.0 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "date": "2021\/08\/24 09:33:23", "confirmation": "Yes", "layer": "illegal_dumping", "x": 28.235817980021238, "y": -25.757585386745632 }, "geometry": { "type": "Point", "coordinates": [ 28.235817980021238, -25.757585386745632, 0.0 ] } }
+]
+}

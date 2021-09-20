@@ -1,0 +1,26 @@
+Results for FeatureType 'http://www.openplans.org/topp:states':
+--------------------------------------------
+the_geom = [GEOMETRY (Polygon) with 153 points]
+STATE_NAME = Arizona
+STATE_FIPS = 04
+SUB_REGION = Mtn
+STATE_ABBR = AZ
+LAND_KM = 294333.462
+WATER_KM = 942.772
+PERSONS = 3665228.0
+FAMILIES = 940106.0
+HOUSHOLD = 1368843.0
+MALE = 1810691.0
+FEMALE = 1854537.0
+WORKERS = 1358263.0
+DRVALONE = 1178320.0
+CARPOOL = 239083.0
+PUBTRANS = 32856.0
+EMPLOYED = 1603896.0
+UNEMPLOY = 123902.0
+SERVICE = 455896.0
+MANUAL = 185109.0
+P_MALE = 0.494
+P_FEMALE = 0.506
+SAMP_POP = 468178.0
+--------------------------------------------
